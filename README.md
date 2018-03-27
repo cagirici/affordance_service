@@ -7,7 +7,9 @@ Prerequisites:
 * Please follow the instructions there , make sure it is up and running.
 
 Usage:
-* Initialize the service by 
+* Clone the repo into your catkin workspace ```/src``` directory.
+* Run ```catkin_make```
+Initialize the service by 
 ```bash
 rosrun affordance_service affordance_srv.py
 ```
