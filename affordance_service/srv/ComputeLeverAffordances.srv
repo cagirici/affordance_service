@@ -1,0 +1,5 @@
+geometry_msgs/PolygonStamped hdd_polygon
+geometry_msgs/PolygonStamped pcb_polygon
+---
+int64 sum
+geometry_msgs/Point32[] affordance_pts 
